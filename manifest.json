@@ -1,38 +1,27 @@
 {
   "short_name": "AiTrain",
-  "dir": "auto",
   "name": "AiTrain",
+  "description": "App for personal trainers to create customised workout programs for their clients and track their progress",
+  "start_url": "/?launchedfrom=homescreen",
+  "scope": "/",
+  "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
-  "display": "fullscreen",
-  "start_url": "https://app.aitrainusa.com/?launchedfrom=homescreen",
-  "scope": "https://app.aitrainusa.com/",
-  "id": "https://app.aitrainusa.com/YSR0kzG7l2iHS1N4Zwfy",
-  "prefer_related_applications": false,
+  "orientation": "portrait",
   "icons": [
     {
       "src": "https://assets.softr-files.com/applications/b2e8a8e7-d18e-4f26-a726-a9b2037faf31/icons/8171602f-22bc-49ea-bad5-8536f92b5035.png?v=04d8c481-342c-4551-ac32-85a6bd486953",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
-    },
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
     {
-      "src": "https://assets.softr-files.com/applications/b2e8a8e7-d18e-4f26-a726-a9b2037faf31/icons/8171602f-22bc-49ea-bad5-8536f92b5035.png?v=04d8c481-342c-4551-ac32-85a6bd486953",
-      "sizes": "512x512",
+      "src": "https://assets.softr-files.com/applications/b2e8a8e7-d18e-4f26-a726-a9b2037faf31/screenshots/clients-1.png",
+      "sizes": "640x480",
       "type": "image/png",
-      "purpose": "maskable"
+      "form_factor": "wide"
     }
-  ],
-  "protocol_handlers": [
-    {
-      "protocol": "web+pwa",
-      "url": "https://app.aitrainusa.com/?launchedfrom=homescreen&amp;amp;pwaprotocolredirect=%s"
-    },
-    {
-      "protocol": "web+aitrain",
-      "url": "https://app.aitrainusa.com/?launchedfrom=homescreen&amp;amp;pwaprotocolredirect=%s"
-    }
-  ],
-  "description": "App for personal trainers to create customised workout programs for their clients and track their progress",
-  "orientation": "any"
+  ]
 }
