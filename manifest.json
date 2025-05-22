@@ -26,12 +26,13 @@
   "protocol_handlers": [
     {
       "protocol": "web+pwa",
-      "url": "https://app.aitrainusa.com/?launchedfrom=homescreen&amp;pwaprotocolredirect=%s"
+      "url": "https://app.aitrainusa.com/?launchedfrom=homescreen&amp;amp;pwaprotocolredirect=%s"
     },
     {
       "protocol": "web+aitrain",
-      "url": "https://app.aitrainusa.com/?launchedfrom=homescreen&amp;pwaprotocolredirect=%s"
+      "url": "https://app.aitrainusa.com/?launchedfrom=homescreen&amp;amp;pwaprotocolredirect=%s"
     }
   ],
-  "description": "App for personal trainers to create customised workout programs for their clients and track their progress"
+  "description": "App for personal trainers to create customised workout programs for their clients and track their progress",
+  "orientation": "any"
 }
