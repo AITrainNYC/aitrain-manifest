@@ -10,7 +10,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://assets.softr-files.com/applications/b2e8a8e7-d18e-4f26-a726-a9b2037faf31/icons/8171602f-22bc-49ea-bad5-8536f92b5035.png?v=04d8c481-342c-4551-ac32-85a6bd486953",
+      "src": "https://github.com/AITrainNYC/aitrain-manifest/blob/main/android-launchericon-512-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
