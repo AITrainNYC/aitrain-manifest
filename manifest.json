@@ -8,7 +8,6 @@
   "background_color": "#121212",
   "theme_color": "#121212",
   "orientation": "portrait",
-  "icons": {
   "icons": [
     {
       "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/windows11/SmallTile.scale-100.png",
@@ -337,7 +336,7 @@
       "purpose": "any"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/adroid/android-launchericon-512-512.png",
+      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/android-launchericon-512-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
