@@ -13,7 +13,7 @@
       "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/android/android-launchericon-512-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any any maskable"
     },
     {
       "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/android/android-launchericon-512-512.png",
