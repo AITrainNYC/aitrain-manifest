@@ -10,7 +10,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/icons/icon-512x512.png",
+      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/android-launchericon-512-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
