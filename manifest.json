@@ -10,28 +10,16 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/android/android-launchericon-512-512.png",
+      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/ios/512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/android/android-launchericon-512-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/android/android-launchericon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
     }
   ],
   "screenshots": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/screenshots/clients-1.png",
-      "sizes": "640x480",
+      "src": "https://cdn.jsdelivr.net/gh/AITrainNYC/aitrain-manifest@main/windows11/Wide310x150Logo.scale-200.png",
+      "sizes": "620x330",
       "type": "image/png",
       "form_factor": "wide"
     }
